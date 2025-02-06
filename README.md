@@ -1,25 +1,23 @@
-# 🚀 Hello World! I'm @TimInTech
+# Hi there, I'm TimInTech 👋
 
-📍 North Rhine-Westphalia, Germany
+I'm a passionate software developer with a love for technology and innovation. I enjoy working on cutting-edge projects and constantly learning new skills. My goal is to contribute to the tech community and help others along the way.
 
-## 🔍 My Main Interests:
+## 🔧 Technologies & Tools
 
-- **🤖 Prompt Engineering:** I love experimenting with AI models and developing effective prompts to foster innovation and productivity.
-- **🐧 Linux Console:** Working in the Linux console is essential for me. I optimize and automate processes to achieve maximum efficiency.
-- **🔒 Cyber Security:** Digital security is my passion. I am deeply involved in securing networks and systems.
-- **📱 Smartphone and Android App Development:** The world of mobile technologies fascinates me, especially the development of customized Android apps.
-- **🔧 Automation:** From smart homes to IT systems – automation is the key to a more efficient everyday life.
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks**: React, Node.js, Django, Spring Boot
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud**: AWS, Azure, Google Cloud
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
 
-## 🛠 Current Learning Path:
+## 📈 GitHub Stats
 
-I am expanding my knowledge in:
-- Creating and optimizing AI prompts
-- Securing networks and systems
-- Developing and testing Android apps
-- Integrating smart automation solutions into various platforms
+![TimInTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimInTech&show_icons=true&theme=radical)
 
-## 💌 Contact:
+## 📫 How to Reach Me
 
-For inquiries, collaboration, or just to connect:
+- **Email**: timintech@example.com
 
-📧 **gummifli@outlook.de**
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!

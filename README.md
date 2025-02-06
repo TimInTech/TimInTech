@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 
 ## 📫 How to Reach Me
 
-- **Email**: gummiflip@outllo.de
+- **Email**: gummiflip@outlook.de
 
 ## 💬 Let's Connect!
 

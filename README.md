@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for technology and innovation. I
 
 ## 📫 How to Reach Me
 
-- **Email**: timintech@example.com
+- **Email**: gummiflip@outllo.de
 
 ## 💬 Let's Connect!
 

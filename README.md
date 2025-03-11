@@ -1,21 +1,21 @@
 Hi there, I'm TimInTech 👋
 
-Ich bin ein leidenschaftlicher IT-Enthusiast mit einem Fokus auf Linux, Docker, Proxmox, Home Assistant und Netzwerkadministration. Ich beschäftige mich intensiv mit Servertechnik, Self-Hosting und Automatisierungslösungen.
+I am a passionate IT enthusiast with a focus on Linux, Docker, Proxmox, Home Assistant, and network administration. I specialize in server technology, self-hosting, and automation solutions.
 
-🔧 Technologien & Tools
+🔧 Technologies & Tools
 
-Betriebssysteme: Linux (Kubuntu, Debian, Proxmox)
+Operating Systems: Linux (Kubuntu, Debian, Proxmox)
 
-Container & Virtualisierung: Docker, Proxmox, Home Assistant, Unraid (geplant)
+Containers & Virtualization: Docker, Proxmox, Home Assistant, Unraid (planned)
 
-Netzwerk & Security: Tailscale, Pi-hole, UniFi
+Networking & Security: Tailscale, Pi-hole, UniFi
 
-Hardware & Infrastruktur: Raspberry Pi, Synology NAS, HP ProDesk Mini, HP EliteDesk 800 G3 TWR
+Hardware & Infrastructure: Raspberry Pi, Synology NAS, HP ProDesk Mini, HP EliteDesk 800 G3 TWR
 
-Aktuelle Projekte
+🚀 Current Projects
 
-Migration von Home Assistant auf leistungsfähigere Hardware
+Migrating Home Assistant to more powerful hardware
 
-Optimierung meines Heimnetzwerks mit UniFi und Tailscale
+Optimizing my home network with UniFi and Tailscale
 
-Aufbau eines effizienten Server-Setups mit Proxmox oder Unraid
+Building an efficient server setup with Proxmox or Unraid

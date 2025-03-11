@@ -6,7 +6,7 @@ I am a passionate IT enthusiast with a focus on Linux, Docker, Proxmox, Home Ass
 
 Operating Systems: Linux (Kubuntu, Debian, Proxmox)
 
-Containers & Virtualization: Docker, Proxmox, Home Assistant, Unraid (planned)
+Containers & Virtualization: Docker, Proxmox, Home Assistant
 
 Networking & Security: Tailscale, Pi-hole, UniFi
 

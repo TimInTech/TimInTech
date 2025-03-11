@@ -10,7 +10,7 @@ Containers & Virtualization: Docker, Proxmox, Home Assistant, Unraid (planned)
 
 Networking & Security: Tailscale, Pi-hole, UniFi
 
-Hardware & Infrastructure: Raspberry Pi, Synology NAS, HP ProDesk Mini, HP EliteDesk 800 G3 TWR
+Hardware & Infrastructure: Raspberry Pi, Synology NAS, HP ProDesk Mini, HP EliteDesk 
 
 🚀 Current Projects
 

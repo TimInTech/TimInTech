@@ -1,23 +1,21 @@
-# Hi there, I'm TimInTech 👋
+Hi there, I'm TimInTech 👋
 
-I'm a passionate software developer with a love for technology and innovation. I enjoy working on cutting-edge projects and constantly learning new skills. My goal is to contribute to the tech community and help others along the way.
+Ich bin ein leidenschaftlicher IT-Enthusiast mit einem Fokus auf Linux, Docker, Proxmox, Home Assistant und Netzwerkadministration. Ich beschäftige mich intensiv mit Servertechnik, Self-Hosting und Automatisierungslösungen.
 
-## 🔧 Technologies & Tools
+🔧 Technologien & Tools
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Spring Boot
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure, Google Cloud
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
+Betriebssysteme: Linux (Kubuntu, Debian, Proxmox)
 
-## 📈 GitHub Stats
+Container & Virtualisierung: Docker, Proxmox, Home Assistant, Unraid (geplant)
 
-![TimInTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimInTech&show_icons=true&theme=radical)
+Netzwerk & Security: Tailscale, Pi-hole, UniFi
 
-## 📫 How to Reach Me
+Hardware & Infrastruktur: Raspberry Pi, Synology NAS, HP ProDesk Mini, HP EliteDesk 800 G3 TWR
 
-- **Email**: gummiflip@outlook.de
+Aktuelle Projekte
 
-## 💬 Let's Connect!
+Migration von Home Assistant auf leistungsfähigere Hardware
 
-Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
+Optimierung meines Heimnetzwerks mit UniFi und Tailscale
+
+Aufbau eines effizienten Server-Setups mit Proxmox oder Unraid

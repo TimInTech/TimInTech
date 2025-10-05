@@ -28,7 +28,6 @@ Homelab builder. Proxmox/Docker stacks. Clean shell tools and lean docs designed
 
 ## Projects
 
-> Tip: each item shows a tiny tech row (icons) so you can see the stack at a glance.
 
 ### Networking / DNS / Monitoring
 - 🛰️ **[Pi-hole Maintenance PRO MAX](https://github.com/TimInTech/pihole-maintenance-pro)** – health checks, upgrades, Gravity, Port-53 tests, JSON mode, smart summary.  

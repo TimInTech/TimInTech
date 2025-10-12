@@ -56,8 +56,6 @@ Homelab builder. Proxmox/Docker stacks. Clean shell tools and lean docs designed
 - 🧪 **[FTL DB Repair Tool](https://github.com/TimInTech/pihole-maintenance-pro/tree/main/tools)** – checks/rebuilds `pihole-FTL.db` when corrupted.  
   <sub><img src="https://skillicons.dev/icons?i=bash,sqlite" height="18"></sub>
 
-- 🗂️ **[Backup/Snapshot Helpers](https://github.com/TimInTech/backup_repo_snapshot)** – quick safeguards for homelab repos and configs.  
-  <sub><img src="https://skillicons.dev/icons?i=bash,git,github" height="18"></sub>
 
 ---
 

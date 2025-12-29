@@ -1,76 +1,57 @@
-
-<!-- README.md – Profile/Projects Showcase (no JS/iframes) -->
+<!-- README.md – Minimal Profile / Projects -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0A84FF&text=TimInTech&fontColor=FFFFFF&fontSize=62&animation=fadeIn" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0A84FF&text=TimInTech&fontColor=FFFFFF&fontSize=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=820&lines=Self-hosting%2C+Linux%2C+Proxmox%2C+Docker%2C+Tailscale;Clean+docs%2C+clear+code%2C+automated+workflows;Open+source%2C+pragmatic%2C+reproducible" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0A84FF&center=true&vCenter=true&width=780&lines=Self-hosting+%7C+Proxmox+%7C+Docker+%7C+DNS;CLI-first+%7C+Reproducible+%7C+Low-maintenance;Android+%7C+APKs+%7C+Local+Builds" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,debian,proxmox,docker,bash,markdown,python,sqlite,nginx,cloudflare,git,github,regex&perline=16" alt="Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,raspberrypi,proxmox,docker,bash,markdown,python,sqlite,nginx,git,github,regex,android,gradle,react" />
 </p>
+
+---
 
 ## Summary
-Homelab builder. Proxmox/Docker stacks. Clean shell tools and lean docs designed to be reproducible and CI-friendly.
 
-### Highlights
-- 🔁 **Automated maintenance** for Pi-hole & DNS stacks  
-- 📦 **One-shot installers** with sensible defaults  
-- 🔍 **Observability**: health checks, JSON output, logs  
-- 🧩 **Small, composable scripts** > giant monoliths
+Pragmatische **Homelab- und Infrastruktur-Tools** mit Fokus auf Proxmox, Docker und DNS-Stacks.  
+Ergänzend **lokale Android-/APK-Entwicklung** ohne Cloud-Abhängigkeiten.  
+Ziel: reproduzierbar, wartbar, skript-basiert.
 
 ---
 
-## Projects
+## Repositories
 
+### 🛰️ Pi-hole Maintenance PRO  
+https://github.com/TimInTech/pihole-maintenance-pro  
+Automatisierte Wartung für Pi-hole: Health-Checks, Updates, Gravity, Port-53-Tests, JSON-Status.
 
-### Networking / DNS / Monitoring
-- 🛰️ **[Pi-hole Maintenance PRO MAX](https://github.com/TimInTech/pihole-maintenance-pro)** – health checks, upgrades, Gravity, Port-53 tests, JSON mode, smart summary.  
-  <sub><img src="https://skillicons.dev/icons?i=bash,linux,sqlite,raspberrypi" height="18"></sub>
+### 🔒 Pi-hole + Unbound + Pi.Alert Setup  
+https://github.com/TimInTech/Pi-hole-Unbound-PiAlert-Setup  
+Kuratiertes DNS-Setup mit rekursivem Resolver und LAN-Monitoring.
 
-- 🔒 **[Pi-hole + Unbound + Pi.Alert Setup](https://github.com/TimInTech/Pi-hole-Unbound-PiAlert-Setup)** – curated stack: secure DNS (Unbound), ad-blocking (Pi-hole), LAN device alerts (Pi.Alert fork / NetAlertX).  
-  <sub><img src="https://skillicons.dev/icons?i=docker,bash,linux,raspberrypi,nginx" height="18"></sub>
+### 🛠️ Proxmox Manager  
+https://github.com/TimInTech/proxmox-manager  
+Kleine Bash-Tools für CT/VM-Lifecycle, Snapshots und SPICE-Zugriff.
 
-- 🛠️ **[Proxmox Manager (scripts)](https://github.com/TimInTech/proxmox-manager)** – quick helpers for CT/VM lifecycle, SPICE, snapshots.  
-  <sub><img src="https://skillicons.dev/icons?i=bash,linux,proxmox" height="18"></sub>
-
-- 📊 **[Monitor Profiles / Dash Helpers](https://github.com/TimInTech/monitor-profiles)** – small utilities for dashboards & status views.  
-  <sub><img src="https://skillicons.dev/icons?i=bash,linux" height="18"></sub>
-
-### Apps / Stacks
-- 🎮 **[Minecraft on Proxmox](https://github.com/TimInTech/minecraft-server-Proxmox)** – CT/VM helpers for Bedrock/Java servers, quick setup paths.  
-  <sub><img src="https://skillicons.dev/icons?i=bash,proxmox,docker" height="18"></sub>
-
-- 🚴 **[Bike Routing / GPX Tools](https://github.com/TimInTech/bike-routing-app)** – GPX helpers and lightweight routing utilities.  
-  <sub><img src="https://skillicons.dev/icons?i=html,css,js" height="18"></sub>
-
-### Utilities / Tooling
-- 🧰 **[Pi-hole Whitelist Tools](https://github.com/TimInTech/Whitelist)** – audit/update scripts for allow-lists (e.g., Alexa/Spotify).  
-  <sub><img src="https://skillicons.dev/icons?i=bash,regex" height="18"></sub>
-
-- 🧪 **[FTL DB Repair Tool](https://github.com/TimInTech/pihole-maintenance-pro/tree/main/tools)** – checks/rebuilds `pihole-FTL.db` when corrupted.  
-  <sub><img src="https://skillicons.dev/icons?i=bash,sqlite" height="18"></sub>
-
+### 🎮 Minecraft on Proxmox  
+https://github.com/TimInTech/minecraft-server-Proxmox  
+Reproduzierbarer Setup-Pfad für Java- und Bedrock-Server auf Proxmox.
 
 ---
 
-## ☕ Support / Donate
+## ☕ Support
 
-If you find these tools useful and want to support development:
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee\&logoColor=black)](https://buymeacoffee.com/timintech)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/timintech)
 
-Open-source focus: self-hosting, automation, DNS tooling, and small dashboard utilities.
-Your support helps me maintain and improve these projects continuously. 💛
+Unterstützung hilft bei Wartung, Doku und Weiterentwicklung.
 
 ---
 
-<sub>Last updated: 2025-10-05</sub>
+<sub>Stand: 2025-10-05</sub>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0A84FF" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0A84FF" />
 </p>

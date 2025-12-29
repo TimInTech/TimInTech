@@ -16,9 +16,9 @@
 
 ## Summary
 
-Pragmatische **Homelab- und Infrastruktur-Tools** mit Fokus auf Proxmox, Docker und DNS-Stacks.  
-Ergänzend **lokale Android-/APK-Entwicklung** ohne Cloud-Abhängigkeiten.  
-Ziel: reproduzierbar, wartbar, skript-basiert.
+Pragmatic **homelab and infrastructure tooling** focused on Proxmox, Docker, and DNS stacks.  
+Additionally, **local Android / APK development** without cloud-only build dependencies.  
+Goal: reproducible, maintainable, script-first workflows.
 
 ---
 
@@ -26,19 +26,19 @@ Ziel: reproduzierbar, wartbar, skript-basiert.
 
 ### 🛰️ Pi-hole Maintenance PRO  
 https://github.com/TimInTech/pihole-maintenance-pro  
-Automatisierte Wartung für Pi-hole: Health-Checks, Updates, Gravity, Port-53-Tests, JSON-Status.
+Automated Pi-hole maintenance: health checks, upgrades, gravity rebuilds, port-53 tests, JSON status output.
 
 ### 🔒 Pi-hole + Unbound + Pi.Alert Setup  
 https://github.com/TimInTech/Pi-hole-Unbound-PiAlert-Setup  
-Kuratiertes DNS-Setup mit rekursivem Resolver und LAN-Monitoring.
+Curated DNS stack with recursive resolution and LAN monitoring.
 
 ### 🛠️ Proxmox Manager  
 https://github.com/TimInTech/proxmox-manager  
-Kleine Bash-Tools für CT/VM-Lifecycle, Snapshots und SPICE-Zugriff.
+Small Bash utilities for CT/VM lifecycle, snapshots, and SPICE access.
 
 ### 🎮 Minecraft on Proxmox  
 https://github.com/TimInTech/minecraft-server-Proxmox  
-Reproduzierbarer Setup-Pfad für Java- und Bedrock-Server auf Proxmox.
+Reproducible setup paths for Java and Bedrock servers on Proxmox.
 
 ---
 
@@ -46,11 +46,11 @@ Reproduzierbarer Setup-Pfad für Java- und Bedrock-Server auf Proxmox.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/timintech)
 
-Unterstützung hilft bei Wartung, Doku und Weiterentwicklung.
+Support helps with maintenance, documentation, and long-term improvements.
 
 ---
 
-<sub>Stand: 2025-10-05</sub>
+<sub>Last updated: 2025-10-05</sub>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0A84FF" />
